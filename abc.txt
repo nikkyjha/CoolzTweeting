@@ -3,4 +3,5 @@ now i have switched to feature1.
 
 helllooo
 
-<hi>making some changes</h1>
+<h1>making some changes</h1>
+<h2>making some changes</h2>
