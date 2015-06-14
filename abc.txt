@@ -2,9 +2,6 @@ hey i am learning git
 now i have switched to feature1.
 
 helllooo
-<<<<<<< HEAD
 
 <h1>making some changes</h1>
 <h2>making some changes</h2>
-=======
->>>>>>> af29d0a6b7826e1bd380c4c92f8986a23bf93d36
